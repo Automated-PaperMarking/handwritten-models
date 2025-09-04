@@ -1,0 +1,6 @@
+\dataset
+\venv
+\dataset_grayscale
+\__pycache__
+\images
+*.pyc
